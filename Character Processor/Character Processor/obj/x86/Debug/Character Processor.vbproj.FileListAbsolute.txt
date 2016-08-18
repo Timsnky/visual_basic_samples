@@ -1,0 +1,18 @@
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.pdb
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character_Processor.CharacterProcess.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character_Processor.Resources.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.pdb
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.exe
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.xml
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.pdb
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.exe
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.pdb
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\bin\Debug\Character Processor.xml
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character_Processor.CharacterProcess.resources
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character_Processor.Resources.resources
+D:\Visual Studio\Assignment II\Character Processor\Character Processor\obj\x86\Debug\Character Processor.vbproj.GenerateResource.Cache

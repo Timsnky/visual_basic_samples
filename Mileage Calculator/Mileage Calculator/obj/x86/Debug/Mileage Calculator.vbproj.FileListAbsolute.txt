@@ -1,0 +1,12 @@
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage_Calculator.MileageCalculator.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage_Calculator.Resources.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.pdb
+D:\Notes\Application Programming\Visual Studio\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.exe
+D:\Notes\Application Programming\Visual Studio\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.xml
+D:\Notes\Application Programming\Visual Studio\Assignment II\Mileage Calculator\Mileage Calculator\obj\x86\Debug\Mileage Calculator.pdb

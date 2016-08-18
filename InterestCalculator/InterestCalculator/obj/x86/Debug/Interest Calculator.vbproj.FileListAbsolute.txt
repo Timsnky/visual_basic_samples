@@ -1,0 +1,9 @@
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.InterestCalcForm.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Resources.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\Interest Calculator.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb

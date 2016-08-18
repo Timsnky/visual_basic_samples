@@ -1,0 +1,18 @@
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.pdb
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales_Manager.Resources.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales_Manager.SalesManager.resources
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2010\Projects\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.pdb
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.exe
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.xml
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.pdb
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.exe
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.pdb
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\bin\Debug\Sales Manager.xml
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales_Manager.Resources.resources
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales_Manager.SalesManager.resources
+D:\Visual Studio\Assignment II\Sales Manager\Sales Manager\obj\x86\Debug\Sales Manager.vbproj.GenerateResource.Cache

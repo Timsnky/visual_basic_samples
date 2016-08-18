@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tower of Hanoi", "Tower of Hanoi\Tower of Hanoi.vbproj", "{0473F1F3-1744-4CC9-9511-535AA2EF00FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0473F1F3-1744-4CC9-9511-535AA2EF00FE}.Debug|x86.ActiveCfg = Debug|x86
+		{0473F1F3-1744-4CC9-9511-535AA2EF00FE}.Debug|x86.Build.0 = Debug|x86
+		{0473F1F3-1744-4CC9-9511-535AA2EF00FE}.Release|x86.ActiveCfg = Release|x86
+		{0473F1F3-1744-4CC9-9511-535AA2EF00FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
